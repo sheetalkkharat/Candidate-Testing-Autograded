@@ -71,7 +71,7 @@ grade = (numberOfCorrectAnswer) / (numberOfQuizQuestions) * 100
 return grade;
 }
 
-runProgram()
+//runProgram()
 function runProgram() {
 
   askForName();
